@@ -7,4 +7,4 @@ def test_b():
     assert 2*2 == 4
 
 def test_c():
-    assert 2*3 == 6
+    assert 2*3 == 44
